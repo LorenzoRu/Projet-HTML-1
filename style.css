@@ -19,7 +19,7 @@ header {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	background-image: url(../images/top.jpg);
+	background-image: url(../images/BG.jpg);
 	background-size: cover;
 	position: fixed;
 	}
