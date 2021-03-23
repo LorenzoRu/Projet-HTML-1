@@ -7,7 +7,7 @@
 }
 
 body {
-	background-image: url(../images/prism.png);
+	background-image: url(images/prism.png);
 	background-size: cover;
 
 }
@@ -19,7 +19,7 @@ header {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	background-image: url(../images/BG.jpg);
+	background-image: url(images/BG.jpg);
 	background-size: cover;
 	position: fixed;
 	}
